@@ -1,0 +1,1 @@
+데이터베이스 오류: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'as_customer.AS_submissions' doesn't exist
